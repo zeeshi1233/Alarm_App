@@ -1,2 +1,2 @@
-# Alarm_App
-in this code i Make the Alarm App
+Developed a responsive Alarm App using HTML, CSS, and JavaScript. Set multiple alarms and wake up on time with this intuitive application..Alarm App, HTML, CSS, JavaScript, responsive design, multiple alarms, wake up on time, intuitive application
+ Alarm App, HTML, CSS, JavaScript, responsive design, multiple alarms, wake up on time, intuitive applicationAlarmApp, HTML, CSS, JavaScript, responsive design, web development, alarm clock, time management
